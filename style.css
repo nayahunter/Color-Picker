@@ -1,0 +1,51 @@
+h1{
+  background-color: white;
+  text-decoration: underline;
+  color: black;
+
+}
+
+.box{
+  padding:13px 43px;
+  border:3px solid black;
+  margin:20px;
+  width:60px;
+  color:white;
+
+}
+#purple{
+  background-color: purple;
+}
+#purple:hover{
+  background-color: #d24dff;
+}
+#red{
+  background-color: red;
+}
+#red:hover{
+  background-color: #ff4d4d;
+}
+#blue{
+  background-color: blue;
+}
+#blue:hover{
+  background-color:#005c99;
+}
+#green{
+  background-color: green;
+}
+#green:hover{
+  background-color: #00e600;
+}
+#pink{
+  background-color: #ff66ff;
+}
+#pink:hover{
+  background-color: #ffb3e6;
+}
+#yellow{
+  background-color: #e6e600;
+}
+#yellow:hover{
+  background-color: #ffff00;
+}
